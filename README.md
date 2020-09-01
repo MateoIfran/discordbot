@@ -1,1 +1,1 @@
-# discordbot
+[![Run on Repl.it](https://repl.it/badge/github/MateoIfran/discordbot)](https://repl.it/github/MateoIfran/discordbot)# discordbot
